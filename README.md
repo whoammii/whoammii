@@ -8,8 +8,8 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/whoiammm">
-    <img alt="Profile" src="https://img.shields.io/badge/GitHub-whoiammm-0b0f14?style=for-the-badge&logo=github">
+  <a href="https://github.com/whoammii">
+    <img alt="Profile" src="https://img.shields.io/badge/GitHub-whoammii-0b0f14?style=for-the-badge&logo=github">
   </a>
   <img alt="Location" src="https://img.shields.io/badge/Dushanbe-TJ-0b0f14?style=for-the-badge&logo=googlemaps&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-learning-0b0f14?style=for-the-badge&logo=linux&logoColor=white">
