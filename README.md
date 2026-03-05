@@ -1,6 +1,6 @@
 # Hey, I'm Max 
 
-<a href="https://github.com/whoiammm">
+<a href="https://github.com/whoammii">
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&duration=3500&pause=900&color=C109F7&center=true&vCenter=true&width=800&height=70&lines=Frontend+Developer;Learning+Backend+step+by+step;On+my+way+to+Fullstack;Learning+Linux;Touch+typing+enjoyer"
     alt="Typing SVG"
