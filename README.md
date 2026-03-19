@@ -1,4 +1,4 @@
-# Hey, I'm Max 
+# Hey 👋, I'm Max 
 
 <a href="https://github.com/whoammii">
   <img
