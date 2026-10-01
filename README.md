@@ -40,7 +40,7 @@ I care about hierarchy, typography, responsive behavior and the small interactio
 
 ## Toolkit
 
-`TypeScript` · `React` · `Next.js` · `JavaScript` · `HTML` · `CSS` · `Motion` · `REST APIs` · `Git`
+`TypeScript` · `React` · `Next.js` · `JavaScript` · `HTML` · `CSS` · `Motion` · `React Native` · `Python` · `REST APIs` · `Git`
 
 ## Current direction
 
