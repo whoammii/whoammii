@@ -9,7 +9,7 @@
   />
 </a>
 
-**Frontend developer based in Dushanbe.**  
+**Frontend developer**  
 I build clear, responsive interfaces with thoughtful motion and strong visual character.
 
 <p>
