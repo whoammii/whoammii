@@ -4,7 +4,7 @@
 
 <a href="https://portfolio-maxhalimov.vercel.app/">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=27&duration=3200&pause=850&color=FF5A43&center=true&vCenter=true&width=820&height=70&lines=Frontend+Developer;Interfaces+%C2%B7+Motion+%C2%B7+Systems;Building+digital+character;Exploring+AI+and+backend"
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=27&duration=3200&pause=850&color=FF5A43&center=true&vCenter=true&width=820&height=70&lines=Frontend+Developer;Interfaces+%C2%B7+Motion+%C2%B7+Systems;Building+digital+character;Building+AI+agents+and+bots;Exploring+AI+and+backend"
     alt="Frontend Developer — Interfaces, Motion and Systems"
   />
 </a>
@@ -44,6 +44,8 @@ I care about hierarchy, typography, responsive behavior and the small interactio
 
 ## Current direction
 
+- Building AI agents
+- Bot development
 - Backend fundamentals: APIs, authentication and databases
 - Linux: shell, permissions, processes, services, logs and SSH
 - AI-assisted workflows and practical automation
