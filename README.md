@@ -2,7 +2,7 @@
 
 # Hey, I'm Max 👋
 
-<a href="https://whoammii.github.io/about-me/">
+<a href="https://portfolio-maxhalimov.vercel.app/">
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=27&duration=3200&pause=850&color=FF5A43&center=true&vCenter=true&width=820&height=70&lines=Frontend+Developer;Interfaces+%C2%B7+Motion+%C2%B7+Systems;Building+digital+character;Exploring+AI+and+backend"
     alt="Frontend Developer — Interfaces, Motion and Systems"
@@ -13,7 +13,7 @@
 I build clear, responsive interfaces with thoughtful motion and strong visual character.
 
 <p>
-  <a href="https://whoammii.github.io/about-me/">
+  <a href="https://portfolio-maxhalimov.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View_work-FF5A43?style=for-the-badge&logo=safari&logoColor=white">
   </a>
   <a href="https://t.me/uppulse">
