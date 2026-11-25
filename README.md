@@ -35,7 +35,7 @@ I care about hierarchy, typography, responsive behavior and the small interactio
 ## Selected work
 
 - **[Bonoor Group](https://bonoor-group.com)** — frontend support, new functionality and responsive adaptation.
-- **Personal portfolio** — an experimental bilingual experience built with Next.js, TypeScript and Motion.
+- **[Personal portfolio](https://portfolio-maxhalimov.vercel.app)** — an experimental bilingual experience built with Next.js, TypeScript and Motion.
 - **[Uppulse](https://t.me/uppulse)** — notes on technology, interfaces, AI and visual culture.
 
 ## Toolkit
